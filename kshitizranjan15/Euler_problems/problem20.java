@@ -32,4 +32,4 @@ public class problem20 {
 	}
 
 }
-//output:-The sum of 100! is 648
+//output:-The sum of 100! is 648.
