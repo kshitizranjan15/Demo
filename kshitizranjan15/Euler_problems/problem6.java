@@ -13,4 +13,4 @@ public class problem6
 
 
 }
-//output:-Reqired difference=25164150.
+//output:-Reqired difference=25164150.. . 
