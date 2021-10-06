@@ -14,6 +14,7 @@ public class problem1
 			
 		}
 System.out.println("sum of all multiples of 3 and 5 below 1000 is "+sum);
+		System.out.println("Kshitiz Ranjan");
 	}
 
 }
