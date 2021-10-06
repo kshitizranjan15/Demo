@@ -25,6 +25,7 @@ public class problem20 {
 			
 		}
 		System.out.println("The sum of 100! is "+sum);
+		System.out.println("Kshitiz Ranjan");
 		
              
 		
